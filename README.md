@@ -1,4 +1,4 @@
-# Trabalho-Web---ADS
+# Trabalho-Web-ADS
 
 ## Descrição
 Este é um projeto simples desenvolvido para a disciplina Fundamentos de Desenvolvimento de Software.  
